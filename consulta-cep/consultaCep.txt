@@ -1,0 +1,12 @@
+{
+  "cep": "60332-470",
+  "logradouro": "Rua Por do Sol",
+  "complemento": "",
+  "bairro": "Barra do Ceará",
+  "localidade": "Fortaleza",
+  "uf": "CE",
+  "ibge": "2304400",
+  "gia": "",
+  "ddd": "85",
+  "siafi": "1389"
+}
